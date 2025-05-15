@@ -1,0 +1,16 @@
+.display {
+  padding: 20px;
+  text-align: right;
+  height: 120px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.display-text {
+  font-weight: 200;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
