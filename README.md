@@ -42,3 +42,7 @@ npm test
 ```   
 ![Image](https://github.com/user-attachments/assets/c5c128d7-92b0-49a9-95f8-eb5eece908d4)
 
+### diagrama de flujo 
+
+![Image](https://github.com/user-attachments/assets/16956aab-546e-481a-b979-c46524cc83b4)
+
